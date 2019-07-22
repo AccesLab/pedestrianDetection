@@ -1,0 +1,2 @@
+tensorflow_object_detector:usb_cam-develop:vision_msgs
+-DCATKIN_DEVEL_PREFIX=/home/mashuk/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mashuk/catkin_ws/install -G Unix Makefiles
